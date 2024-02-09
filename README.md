@@ -20,4 +20,3 @@ Here are some of the projects I've been working on:
 - Email: [Email Address](wkasinram@outlook.com)
 
 Feel free to reach out to me if you have any questions, collaboration opportunities, or just want to connect! 😊
-https://www.wkasinram.co.uk/cDirectory.html
