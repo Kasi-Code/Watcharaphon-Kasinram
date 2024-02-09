@@ -15,8 +15,8 @@ Here are some of the projects I've been working on:
 3. [Project Name](Link to Project): Short description
 
 ## Get in Touch
-- LinkedIn: [Watcharaphon (Kasie) Kasinram](https://www.linkedin.com/in/watcharaphon-kasinram/)
-- Portfolio: [Your Portfolio Website](Link)
-- Email: [Your Email Address](mailto:youremail@example.com)
+- LinkedIn: [Watcharaphon (Kasie) Kasinram](linkedin.com/in/watcharaphon-k-5b25b92a1)
+- Portfolio: [Your Portfolio Website](www.onview.online)
+- Email: [Your Email Address](wkasinram@outlook.com)
 
 Feel free to reach out to me if you have any questions, collaboration opportunities, or just want to connect! 😊
