@@ -1,12 +1,12 @@
 # Welcome to Watcharaphon (Kasie) Kasinram's GitHub Page! 🚀
 
 ## About Me
-I am a passionate full-stack software and web developer with expertise in creating UX/UI designs, RESTful APIs, jQuery, frontend and backend development. My proficiency includes JavaScript, Python, HTML, Sass, version control, and SQL. I've been studying coding for the past several years and aspire to become a skilled developer.
+I am a passionate full-stack software and web developer with knowledge in creating UX/UI designs, RESTful APIs, jQuery, frontend and backend development. My proficiency includes JavaScript, Python, HTML, Sass, version control, and SQL. I've been studying coding for the past several years and aspire to become a skilled developer.
 
 ## Skills
-- Programming Languages: JavaScript, Python, HTML, Sass
+- Programming Languages: JavaScript, Python, HTML, Sass and more
 - Technologies: jQuery, RESTful API
-- Tools: Version Control (Git)
+- Tools: Version Control (Git), Node.js
 
 ## Projects
 Here are some of the projects I've been working on:
