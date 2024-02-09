@@ -10,9 +10,9 @@ I am a passionate full-stack software and web developer with knowledge in creati
 
 ## Projects
 Here are some of the projects I've been working on:
-1. [Project Name](Link to Project): Short description
-2. [Project Name](Link to Project): Short description
-3. [Project Name](Link to Project): Short description
+1. [OhMyFood](https://kasi-ohmyfood.netlify.app/index.html): UI/UX focused project. OhMyFood is an online food ordering company.
+2. [Company Directory](https://www.wkasinram.co.uk/cDirectory.html): Company Directory. A project showing an understanding of CRUD. (MySQL) 
+3. [OnView](https://onview.online/): Social media.
 
 ## Get in Touch
 - LinkedIn: [Watcharaphon (Kasie) Kasinram](linkedin.com/in/watcharaphon-k-5b25b92a1)
@@ -20,3 +20,4 @@ Here are some of the projects I've been working on:
 - Email: [Email Address](wkasinram@outlook.com)
 
 Feel free to reach out to me if you have any questions, collaboration opportunities, or just want to connect! 😊
+https://www.wkasinram.co.uk/cDirectory.html
